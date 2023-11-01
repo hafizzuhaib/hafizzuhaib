@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafizzuhaib
 - 👀 I’m interested in traveling
-- 🌱 I’m currently learning .net core
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me @fb/proudaranian
 
