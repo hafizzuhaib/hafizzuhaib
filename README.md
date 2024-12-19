@@ -30,5 +30,5 @@ Welcome to my GitHub profile! I'm a dedicated Software Quality Assurance (SQA) E
 ## 📫 Connect with Me
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hafizzuhaibulhussan/)
-- 
+  
 Thanks for visiting my profile! Have a great day! 😊
